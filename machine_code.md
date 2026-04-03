@@ -1,0 +1,17 @@
+R-Type
+Instruction: sub x10, x11, x12
+32 16 8 4 2
+1   1 1 1 1 0
+0100000_01100_01011_000_01010_0110011
+
+
+I-Type Encoding
+Instruction: ld x5, 8(x6)
+
+000000001000_00110_011_00101_0000011
+
+S-Type Encoding
+Instruction: sd x7, 16(x2)
+
+0000000_00111_00010_011_10000_0100011
+

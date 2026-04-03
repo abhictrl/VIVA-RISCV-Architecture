@@ -1,0 +1,14 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Simulation/Log files (Common in Vivado/Verilator)
+*.log
+*.jou
+*.vcd
+xsim.dir/
+
+# Temporary VS Code files
+.vscode/
+*.pdf
+*.docx
