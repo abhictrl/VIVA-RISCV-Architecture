@@ -20,7 +20,7 @@
 
 
 ## Capstone: Division Algorithm Program
-**Algorithm:** Repeated Subtraction ($O(n)$)
+**Algorithm:** Repeated Subtraction (O(n))
 **Memory Map Context:** `x13` is pre-loaded with the base data memory address `0x1000`.
 
 | PC Offset | Assembly | Format | Binary Breakdown | Hexadecimal |

@@ -24,7 +24,7 @@ Implemented the foundational **"Fetch"** stage of the processor by designing a 6
 * **Architecture:** 64-bit (RV64I) datapath.
 * **Reset Logic:** Active-High Synchronous Reset to vector `0x0`.
 * **Logic Type:** Sequential logic using `always_ff` with non-blocking assignments (`<=`).
-* **Next-PC Logic:** Incremental fetch logic implemented as `pc\_next = pc\_current + 4`
+* **Next-PC Logic:** Incremental fetch logic implemented as `pc_next = pc_current + 4`
 
 ### File Structure
 * `pc.sv`: The sequential Program Counter module.
